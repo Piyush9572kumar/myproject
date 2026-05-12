@@ -1,1 +1,10 @@
 
+body{
+    text-aling:center;
+    background-color: rgb(69, 84, 96);
+}
+input{
+    padding:20px;
+    border: 2px solid white;
+    background-color:rgb(237, 159, 237)
+}
